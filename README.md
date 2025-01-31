@@ -1,1 +1,1 @@
-<img src="./docs/" alt="Texto Alternativo">
+<img src="./docs/image" alt="Texto Alternativo">
